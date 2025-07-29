@@ -10,7 +10,7 @@ This project implements a **medallion architecture** data warehouse with three d
 - **Silver Layer**: Cleaned, standardized, and formatted data
 - **Gold Layer**: Business intelligence tables with key insights and analytics
 
-The pipeline processes **600,000+ rows** of Olympic data across 6 different datasets, utilizing intelligent file partitioning and scheduled batch loading at 5-minute intervals.
+The pipeline processes **500,000+ rows** of Olympic data across 6 different datasets, utilizing intelligent file partitioning and scheduled batch loading at 5-minute intervals.
 
 ## 📊 Data Sources
 
@@ -166,7 +166,7 @@ batch-processing-data-pipeline/
 
 ## ⚡ Performance Characteristics
 
-- **Total Data Volume**: 600,000+ rows across 6 datasets
+- **Total Data Volume**: 500,000+ rows across 6 datasets
 - **Processing Frequency**: 5-minute batch intervals
 - **File Partitioning**: Intelligent splitting for optimal memory usage
 - **Data Pipeline Stages**: 3-layer medallion architecture
