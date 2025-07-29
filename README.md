@@ -20,10 +20,10 @@ The pipeline processes six distinct Olympic datasets:
 |---------|------------|------------------|-------------|
 | Athlete Biography | `olympic_athlete_biography` | ~150,000 | Comprehensive athlete profiles and biographical data |
 | Event Results | `olympic_event_results` | ~350,000 | Detailed competition results and outcomes |
-| Country Profiles | `olympic_country_profiles` | ~9,000 | National Olympic committee information |
-| Athlete Event Details | `olympic_athlete_event_details` | ~50,000 | Individual athlete performance in specific events |
-| Games Summary | `olympic_games_summary` | ~2,000 | Olympic edition overviews and statistics |
-| Medal Tally History | `olympic_medal_tally_history` | ~30,000 | Historical medal counts by country and year |
+| Country Profiles | `olympic_country_profiles` | ~250 | National Olympic committee information |
+| Athlete Event Details | `olympic_athlete_event_details` | ~21,000 | Individual athlete performance in specific events |
+| Games Summary | `olympic_games_summary` | ~70 | Olympic edition overviews and statistics |
+| Medal Tally History | `olympic_medal_tally_history` | ~2000 | Historical medal counts by country and year |
 
 ## 🔧 Technology Stack
 
